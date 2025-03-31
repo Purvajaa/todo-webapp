@@ -36,7 +36,7 @@ To run the To-Do App locally, follow these steps:
    ```
 
 ## Screenshots
-![To-Do App Screenshot](C:\Users\purva\web app\screenshot.png)
+![To-Do App Screenshot](https://github.com/Purvajaa/todo-webapp/blob/master/screenshot.png)
 
 
 ## Usage
